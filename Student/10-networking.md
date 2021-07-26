@@ -1,6 +1,6 @@
 # Challenge 10: Networking, DNS, and Ingress
 
-[< Previous Challenge](./09-helm.md) - **[Home](../README.md)** - [Next Challenge >](./11-opsmonitoring.md)
+[< Previous Challenge](08-storage.md) - **[Home](../README.md)** - [Next Challenge >](./11-opsmonitoring.md)
 
 ## Introduction
 
