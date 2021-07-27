@@ -1,4 +1,4 @@
-# Challenge 9: Helm
+# Challenge 15: Helm  (optional)
 
 [< Previous Challenge](./08-storage.md) - **[Home](../README.md)** - [Next Challenge >](./10-networking.md)
 

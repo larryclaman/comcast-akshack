@@ -14,7 +14,7 @@ In this challenge we will be provisioning our first Kubernetes cluster using the
 	- **Hint:** This can be done easily with the Azure CLI.
 - Use the Azure CLI to create a new, multi-node AKS cluster with the following specifications:
 	- Use the default Kubernetes version used by AKS.
-	- The cluster will use kubenet (ie: basic networking).  
+	- The cluster will use Azure CNI networking.  
 	- The cluster will use a managed identity
 	- The cluster will use the maximum number of Availability Zones for improved worker node reliability.
 	- The cluster should attach to your ACR created in Challenge 2

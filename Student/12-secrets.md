@@ -1,6 +1,6 @@
 # Challenge 12: Secrets
 
-[< Previous Challenge](11-opsmonitoring.md) - **[Home](../README.md)** 
+[< Previous Challenge](11-opsmonitoring.md) - **[Home](../README.md)** - [Next Challenge >](13-secrets-akv.md)
 
 
 In this challenge, you will need to refactor your MongoDB deployment to require a password when accessing database.  You will first inject the password into your deployment using Kubernetes Secrets. 
