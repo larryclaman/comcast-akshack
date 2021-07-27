@@ -19,7 +19,6 @@ In this challenge we will be provisioning our first Kubernetes cluster using the
 	- The cluster will use the maximum number of Availability Zones for improved worker node reliability.
 	- The cluster should attach to your ACR created in Challenge 2
 		- **NOTE:** Attaching an ACR requires you to have Owner or Azure account administrator role on the Azure subscription. If this is not possible then someone who is an Owner can do the attach for you after you create the cluster.
-	- **NOTE:** You will need to specify on the command line if you want ssh keys generated or no ssh keys used. Either option will work, but you should read the documentation and be familiar with the difference.
 - Use kubectl to prove that the cluster is a multi-node cluster and is working.
 - Use kubectl to examine which availability zone each node is in.  
 - **Optional:** Bring up the AKS "Workloads" screen in the Azure portal.
