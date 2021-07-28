@@ -8,7 +8,7 @@ Not all containers can be stateless. What happens when your application needs to
 
 ## Description
 
-In this challenge we will be creating Azure data disks and using the Kubernetes storage mechanism to make them available to be attached to running containers. This will give MongoDB a place to storage its data without losing it when the container is stopped and restarted.
+In this challenge we will be creating Azure data disks and using the Kubernetes storage mechanism to make them available to be attached to running containers. This will give MongoDB a place to store its data without losing it when the container is stopped and restarted.
 
 - Verify what happens without persistent storage
 	- Make sure that you are using the latest version of the Fabmedical container images, either the ones you built or the pre-built ones available here:
