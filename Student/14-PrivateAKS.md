@@ -10,7 +10,7 @@ Within a Private AKS Cluster, the control plane or API server is in an Azure Kub
 
 ## Part 1: Create the Private AKS Cluster, Networking components and a Virtual Machine on the network.
 
-In Student/Resources/Challenge 11/ARM is a directory that contains an Azure Resource Manager (ARM) Template and scripts for deploying this template to Azure.  One of the scripts is for PowerShell, and one is for Bash.  Using the script of your choice, edit it to specify your resource group, cluster name, and Azure region.  Then run the scipt. (Do this before reading the explanation documentation, as it takes a while to complete).  When the script completes, it will display credentials for the Azure Service Principal controlling the cluster.  Make sure you copy these down, as there is no way to regenerate them later.
+In Student/Resources/Challenge 14/ARM is a directory that contains an Azure Resource Manager (ARM) Template and scripts for deploying this template to Azure.  One of the scripts is for PowerShell, and one is for Bash.  Using the script of your choice, edit it to specify your resource group, cluster name, and Azure region.  Then run the scipt. (Do this before reading the explanation documentation, as it takes a while to complete).  When the script completes, it will display credentials for the Azure Service Principal controlling the cluster.  Make sure you copy these down, as there is no way to regenerate them later.
 
 While the script is running, take a moment and look at the full documentation for creating a [Private AKS Deployment](https://docs.microsoft.com/en-us/azure/aks/private-clusters)
 
