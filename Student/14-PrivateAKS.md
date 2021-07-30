@@ -24,7 +24,7 @@ Now that you have the resources created, you need to connect to the VM in order 
 
 Note that the virtual machine has been configured to allow outgoing requests to the internet, so that we can run this hack in a less difficult way, but to not allow incoming request, which is why we need bastion.  In a production system, you could also limit connections in both directions, as your Vnet could be connected to an Azure VPN or ExpressRoute, making connection from your organization simple.
 
-To create the Azure Bastion Service, we are going to follow the instructions here: 
+To create the Azure Bastion Service, we are going to follow the instructions here: https://docs.microsoft.com/en-us/azure/bastion/quickstart-host-portal
 
 ## Part 3: Connect to AKS and run the application
 
