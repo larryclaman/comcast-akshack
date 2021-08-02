@@ -1,6 +1,9 @@
-# Challenge 15: Helm  (optional)
+# Challenge 14: Helm  (optional)
 
-[< Previous Challenge](/Student/13-PrivateAKS.md) - **[Home](/README.md)** 
+[< Previous Challenge](13-PrivateAKS.md) - **[Home](../README.md)** 
+
+### Note:  This is an Optional Challenge! 
+It's up to the team to decide, and only if they have enough time to complete!
 
 ### Note:  This is an Optional Challenge! 
 It's up to the team to decide, and only if they have enough time to complete!
