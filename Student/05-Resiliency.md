@@ -13,16 +13,12 @@ Many microservice applications are developed with support for health probes.  By
 - Create a Readiness probe for content-web and content-api
 - Create a Liveness probe for content-web and content-api
 - Force the Readiness Probe to fail for content-api
+- After getting all pods in the ready state, use `kubectl` to verify all pods are ready
 
 ## Success Criteria
 
 - Demonstrate that your Readiness & Liveness probes are working
 - Demonstrate 'breaking' the Readiness probe for content-api updating it to probe an invalid uri
-
-## Optional challenge
-
-- Get all pods back to a ready state
-- After getting all pods in the ready state, use `kubectl` to verify all pods are ready
 
 ## Hints
 

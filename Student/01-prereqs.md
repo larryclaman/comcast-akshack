@@ -1,6 +1,6 @@
 # Challenge 1: Pre-requisites & Setup - Ready, Set, GO! 
 
-**[Home](../README.md)** - [Next Challenge >](02c-acr.md)
+**[Home](../README.md)** - [Next Challenge >](02-acr.md)
 
 ## Introduction
 
