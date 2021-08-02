@@ -40,6 +40,8 @@ In this hack you will solve a common challenge for companies migrating to the cl
    - Refactor your manifests to store all your credentials in Azure Key Vault
 - Challenge 13: **[Private AKS](Student/13-PrivateAKS.md)**
    - Explore deploying and using a private AKS cluster    
+- Challenge 14: **[Helm (optional)](Student/14-helm.md)**
+   - (Optional Challenge) Explore creating a Helm chart for an application and share it in a repository
 
 ## Prerequisites
 
