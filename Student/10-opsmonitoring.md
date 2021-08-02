@@ -21,24 +21,14 @@ In this challenge you will learn how to view application logs and trouble-shoot 
 	- Enable "Azure Monitor for Containers" on the AKS cluster
 	- Show a screenshot of CPU and memory utilization of all nodes
 	- Show a screenshot displaying logs from the frontend and backend containers
-- Kibana:
-	- Install Fluentd and Kibana resources on the Kubernetes cluster to use an external ElasticSearch cluster
-	- Create a Kibana dashboard that shows a summary of logs from the front-end app only
-	- Create a Kibana dashboard that shows a summary of logs from the back-end app only
-	- Create a Kibana dashboard that gives a count of all log events from the kubernetes cluster for the last 30 minutes only.
+
 
 ## Success Criteria
 
 1. Show logs for the containers running in your cluster.
 2. Log into a running container and issue bash commands.
 3. Show Azure Monitor working.
-4. Show Kibana dashboards working.
 
 ## Learning Resources
 - Azure Monitoring for Containers:
     - <https://docs.microsoft.com/en-us/azure/azure-monitor/insights/container-insights-overview>
-- ELK stack:
-    - <https://logz.io/learn/complete-guide-elk-stack>
-	- <https://kubernetes.io/docs/tasks/debug-application-cluster/logging-elasticsearch-kibana>
-- Fluentd:
-    - <https://docs.fluentd.org>
