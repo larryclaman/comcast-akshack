@@ -1,6 +1,6 @@
 # Challenge 15: Helm  (optional)
 
-[< Previous Challenge](/Student/08-storage.md) - **[Home](/README.md)** - [Next Challenge >](/Student/10-networking.md)
+[< Previous Challenge](/Student/13-PrivateAKS.md) - **[Home](/README.md)** 
 
 ## Introduction
 
