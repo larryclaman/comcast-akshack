@@ -1,4 +1,4 @@
-# Challenge 12: Secrets
+# Challenge 11: Secrets
 
 [< Previous Challenge](10-opsmonitoring.md) - **[Home](../README.md)** - [Next Challenge >](12-secrets-akv.md)
 

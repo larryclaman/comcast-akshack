@@ -1,4 +1,4 @@
-# Challenge 14: Private AKS
+# Challenge 13: Private AKS
 
 [< Previous Challenge](12-secrets-akv.md) - **[Home](../README.md)** 
 

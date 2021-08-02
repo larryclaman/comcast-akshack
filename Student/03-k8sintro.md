@@ -28,4 +28,4 @@ In this challenge we will be provisioning our first Kubernetes cluster using the
 1. The kubectl CLI is installed.
 1. Show that a new, multi-node AKS kubernetes cluster exists.
 1. Show that its nodes are running in multiple availability zones.
-1. Show that it is using basic networking (kubenet)
+1. Show that it is using CNI networking

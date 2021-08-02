@@ -1,6 +1,6 @@
 # Challenge 5 - Resiliency
 
-[< Previous Challenge](04-k8sdeployment.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next Challenge>](05b-scaling.md)
+[< Previous Challenge](04-k8sdeployment.md) - **[Home](../README.md)** - [Next Challenge>](05b-scaling.md)
 
 ## Introduction
 

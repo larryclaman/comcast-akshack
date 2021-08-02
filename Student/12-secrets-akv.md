@@ -1,4 +1,4 @@
-# Challenge 13: Secrets & Azure Key Vault
+# Challenge 12: Secrets & Azure Key Vault
 
 [< Previous Challenge](11-secrets.md) - **[Home](../README.md)** - [Next Challenge >](13-PrivateAKS.md)
 

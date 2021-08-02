@@ -1,4 +1,4 @@
-# Challenge 10: Networking, DNS, and Ingress
+# Challenge 9: Networking, DNS, and Ingress
 
 [< Previous Challenge](08-storage.md) - **[Home](../README.md)** - [Next Challenge >](./10-opsmonitoring.md)
 

@@ -1,4 +1,4 @@
-# Challenge 11: Operations and Monitoring
+# Challenge 10: Operations and Monitoring
 
 [< Previous Challenge](./09-networking.md) - **[Home](../README.md)** - [Next Challenge >](11-secrets.md)
 
