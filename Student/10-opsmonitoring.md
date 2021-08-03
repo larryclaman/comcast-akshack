@@ -32,3 +32,8 @@ In this challenge you will learn how to view application logs and trouble-shoot 
 ## Learning Resources
 - Azure Monitoring for Containers:
     - <https://docs.microsoft.com/en-us/azure/azure-monitor/insights/container-insights-overview>
+- Newly updated articles:
+  - [Monitor Azure Kubernetes Service (AKS) with Azure Monitor](https://docs.microsoft.com/en-us/azure/aks/monitor-aks)
+  - [Monitoring AKS data reference](https://docs.microsoft.com/en-us/azure/aks/monitor-aks-reference)
+  - [How to query logs from Container insights](https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-log-query)
+  - [Log alerts from Container insights](https://docs.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-log-alerts)
