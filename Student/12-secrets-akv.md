@@ -10,7 +10,7 @@ For this challenge, refactor your deployments to store the secrets in an Azure K
 ## Success Criteria
 - No static passwords or credentials are stored anywhere in Kubernetes or in any manifests
 - All credentials must be stored in Azure Key Vault
-  - _Hint: Pod Identity & CSI Secrets Store Driver are required to achieve the required results._
+  - _Hint: The CSI Secrets Store Driver is required to achieve the required results._
 
 ## Learning Resources
 
@@ -18,4 +18,4 @@ These docs may help you achieving these objectives:
 
 - [Azure Key Vault](https://docs.microsoft.com/azure/key-vault/general/basic-concepts)
 - [AKV provider for secrets store CSI driver](https://docs.microsoft.com/en-us/azure/aks/csi-secrets-store-driver)
-- [Pod Identity](https://github.com/Azure/aad-pod-identity)
+- [Sync Mounted Content with Kubernetes Secret](https://azure.github.io/secrets-store-csi-driver-provider-azure/configurations/sync-with-k8s-secrets/) and [Set your Environment Variable to Reference a Kubernetes Secret](https://azure.github.io/secrets-store-csi-driver-provider-azure/configurations/set-env-var/)
