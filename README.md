@@ -21,7 +21,7 @@ In this hack you will solve a common challenge for companies migrating to the cl
 - Challenge 4: **[Your First Deployment](Student/04-k8sdeployment.md)**
    - Pods, Services, Deployments: Getting your YAML on! Deploy the "FabMedical" app to your AKS cluster. 
 - Challenge 5: **[Resiliency](Student/05-Resiliency.md)**
-   - Flex Kubernetes' muscles by scaling pods, and then nodes. Observe how Kubernetes responds to resource limits.
+   - Create probes to ensure your deployments are working.
 - Challenge 5b: **[Scaling and High Availability](Student/05b-scaling.md)**
    - Flex Kubernetes' muscles by scaling pods, and then nodes. Observe how Kubernetes responds to resource limits.
 - Challenge 6: **[Deploy MongoDB to AKS](Student/06-deploymongo.md)**
