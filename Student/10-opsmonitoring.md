@@ -25,9 +25,10 @@ In this challenge you will learn how to view application logs and trouble-shoot 
 
 ## Success Criteria
 
-1. Show logs for the containers running in your cluster.
-2. Log into a running container and issue bash commands.
-3. Show Azure Monitor working.
+1. Enable Azure Monitoring for Containers
+2. Show logs for the containers running in your cluster.
+3. Log into a running container and issue bash commands.
+4. Show Azure Monitor working.
 
 ## Learning Resources
 - Azure Monitoring for Containers:
